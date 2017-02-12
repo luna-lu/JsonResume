@@ -5,126 +5,122 @@
     "picture": "https://drive.google.com/open?id=0B3qQHcV3FOtWZTU2NjZ2ZXpNRjA",
     "email": "a86597971@gmail.com",
     "phone": "(886) 955-008-309",
-    "website": "",
-    "summary": "! Pasoinate in mobile/website planning.  ",
+    "website": "http://luna-portfolio.webflow.io",
+#    "summary": "Passinate to Product Planning and User Experience. Demostrate great communication skills to cooperate with R&D team. Study and traevel through 6 counties.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Taipei",
+      "countryCode": "Taiwan",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "Facebook Page",
+        "username": "The UX Journey",
+        "url": "https://soundcloud.com/dandymusicnl"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "Facebook",
+        "username": "Luna Lu",
+        "url": "https://www.facebook.com/profile.php?id=100000247699770"
       }
     ]
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "https://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "Deepblu",
+      "position": "Assistant Program Manager",
+      "website": "https://about.deepblu.com/deepblu.html",
+      "startDate": "2016-11",
+      "endDate": "2017-01",
+      "summary": "Deepblu is the online community where scuba divers and freedivers continue their diving adventures above the surface. The Platform allows you to showcase diving memories and discover dive-related content and news.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+#        "As a SCRUM Master, manage project programess.",
+        "Successfully Translated mobile App into Chinese Version."
       ]
-    }
+    },
+    "company": "E-Zilla",
+    "position": "Project Planner",
+#    "website": "",
+    "startDate": "2014-09",
+    "endDate": "2016-06",
+#    "summary": "",
+    "highlights": [
+#      "",
+#      "",
+#      ""
+    ]
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "https://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "organization": "LTUX Taipei",
+      "position": "Food&Beverage manage",
+      "website": "http://ladiesthatux.com/taipei/",
+      "startDate": "2016-10",
+      "endDate": "Now",
+      "summary": "Ladies that UX Taipei is a global community for women working in the UX field.",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+＃        ""
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
+      "institution": "Tunghai University",
+      "area": "Industrial Engineering and Enterprise Information",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+      "startDate": "Tachung, 2012-09",
+      "endDate": "2016-07",
+#      "courses": [
+        "Special Academic Programs - PoYa School"
+#        "Computer Science Department - User Experience（auditor）"
       ]
-    }
+    },
+    "institution": "Fudan University",
+    "studyType": "Exchange Studnt",
+    "startDate": "Shanghai, 2014-02",
+    "endDate": "2014-07",
+    ]
   ],
   "awards": [
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "title": "Long Term-Cheers Entrepreneurial Competition",
+      "date": "2016-04",
+#      "awarder": "shortlist in Rround one (76/250)",
+#     "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "UX Menthods",
+      "level": "",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "Personas",
+        "Journey Map",
+        "Wireframing",
+        "Prototyping (Justinmind)",
+        "Users Interviews"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Others",
+      "level": "",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "JIRA",
+        "SourceTree",
+        "Webflow"
       ]
     }
   ],
   "languages": [
     {
+      "language": "Chinese",
+      "fluency": "Native",
       "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "fluency": "Intermediate",
+      "language": "Spanish",
+      "fluency": "Dele A1"
     }
   ]
 }
