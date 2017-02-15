@@ -2,28 +2,23 @@
   "basics": {
     "name": "Luna Lu",
     "label": "",
-    "picture": "https://drive.google.com/open?id=0B3qQHcV3FOtWZTU2NjZ2ZXpNRjA",
+    "picture": "",
     "email": "a86597971@gmail.com",
     "phone": "(886) 955-008-309",
     "website": "http://luna-portfolio.webflow.io",
-#    "summary": "Passinate to Product Planning and User Experience. Demostrate great communication skills to cooperate with R&D team. Study and traevel through 6 counties.",
+    "summary": " Creative, self-motivated and passion for how product could improved. Leading team to design both mobile app and website plaform project in college, which have 3661 user and outstanding in competition.  Study and travel through 6 counties.",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Taipei",
-      "countryCode": "Taiwan",
+      "countryCode": "",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Facebook Page",
-        "username": "The UX Journey",
-        "url": "https://soundcloud.com/dandymusicnl"
-      },
-      {
         "network": "Facebook",
-        "username": "Luna Lu",
-        "url": "https://www.facebook.com/profile.php?id=100000247699770"
+        "username": "The UX Journey",
+        "url": "https://www.facebook.com/TheUXJounery/"
       }
     ]
   },
@@ -34,23 +29,24 @@
       "website": "https://about.deepblu.com/deepblu.html",
       "startDate": "2016-11",
       "endDate": "2017-01",
-      "summary": "Deepblu is the online community where scuba divers and freedivers continue their diving adventures above the surface. The Platform allows you to showcase diving memories and discover dive-related content and news.",
+      "summary": "Deepblu is the online community where scuba divers continue their diving adventures above the surface.",
       "highlights": [
-#        "As a SCRUM Master, manage project programess.",
-        "Successfully Translated mobile App into Chinese Version."
+        "Hosted meetings as a SCRUM Master and managed project process.",
+        "Conducted Mobile app localization into 9 languages. Consistently improved wording and translated mobile App into Chinese."
       ]
     },
-    "company": "E-Zilla",
-    "position": "Project Planner",
-#    "website": "",
-    "startDate": "2014-09",
-    "endDate": "2016-06",
-#    "summary": "",
-    "highlights": [
-#      "",
-#      "",
-#      ""
-    ]
+    {
+      "company": "E-Zilla",
+      "position": "Product Planner",
+      "website": "http://luna-portfolio.webflow.io/photos/together",
+      "startDate": "",
+      "endDate": "",
+      "summary": "E-Zilla is  a bike sharing service aimed to fulfil urban life's need conveniently, anytime, anywhere, by combining innovation and gamification. ",
+      "highlights": [
+        "Designed user experience for mobile app.",
+        "Self-study through audited UX course in CS department and joined HPX book club."
+      ]
+    }
   ],
   "volunteer": [
     {
@@ -58,11 +54,9 @@
       "position": "Food&Beverage manage",
       "website": "http://ladiesthatux.com/taipei/",
       "startDate": "2016-10",
-      "endDate": "Now",
+      "endDate": "",
       "summary": "Ladies that UX Taipei is a global community for women working in the UX field.",
-      "highlights": [
-＃        ""
-      ]
+      "highlights": []
     }
   ],
   "education": [
@@ -70,41 +64,44 @@
       "institution": "Tunghai University",
       "area": "Industrial Engineering and Enterprise Information",
       "studyType": "Bachelor",
-      "startDate": "Tachung, 2012-09",
+      "startDate": "2012-09",
       "endDate": "2016-07",
-#      "courses": [
-        "Special Academic Programs - PoYa School"
-#        "Computer Science Department - User Experience（auditor）"
-      ]
+      "gpa": "Tachung,Taiwan",
+      "courses": []
     },
-    "institution": "Fudan University",
-    "studyType": "Exchange Studnt",
-    "startDate": "Shanghai, 2014-02",
-    "endDate": "2014-07",
-    ]
+    {
+      "institution": "Fudan University",
+      "area": "Exchange Student",
+      "studyType": "",
+      "startDate": " 2014-02",
+      "endDate": "2014-07",
+      "gpa": "Shanghai, China",
+      "courses": []
+    }
   ],
   "awards": [
     {
       "title": "Long Term-Cheers Entrepreneurial Competition",
       "date": "2016-04",
-#      "awarder": "shortlist in Rround one (76/250)",
-#     "summary": ""
+      "awarder": "Admitted into round one along with other 75 teams out of a total of 250 teams.",
+      "summary": "The competition is hosted by Ministry of Science and Technology,R.O.C and acer Fundation. Write business plane and co-working with cross-university team."
     }
   ],
+  "publications": [],
   "skills": [
     {
-      "name": "UX Menthods",
+      "name": "UX Methods",
       "level": "",
       "keywords": [
         "Personas",
         "Journey Map",
         "Wireframing",
-        "Prototyping (Justinmind)",
+        "Prototyping ",
         "Users Interviews"
       ]
     },
     {
-      "name": "Others",
+      "name": "Other Skills",
       "level": "",
       "keywords": [
         "JIRA",
@@ -115,12 +112,18 @@
   ],
   "languages": [
     {
-      "language": "Chinese",
-      "fluency": "Native",
       "language": "English",
-      "fluency": "Intermediate",
+      "fluency": "Intermediate"
+    },
+    {
       "language": "Spanish",
       "fluency": "Dele A1"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Native"
     }
-  ]
+  ],
+  "interests": [],
+  "references": []
 }
